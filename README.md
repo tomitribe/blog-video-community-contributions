@@ -1,2 +1,2 @@
 # blog-video-community-contributions
-Guide and resource for community contributions for Tomitribe Blog and Videos.
+Your guide and resource that welcomes YOU, as an #OSS Community Contributor to share videos, blogs, tutorials to the Tomitribe Blog and Videos.
