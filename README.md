@@ -21,4 +21,4 @@ If you are planing to make an exclusive TomEE related blog posts, tutorials or v
 * You contribution must be new content not previously published on the web.
 * Check your content for TMs and copyrights.
 * Individuals emails are required, mailing lists representing a group are not accepted.
-* A tittle and brief description (100 words) is recommended. Providing could be used to feed the social media distribution with direct quotes from YOU.
+* A tittle and brief description (100 words) is recommended. Providing draft description (or something that tells us about you) could be used to feed the social media distribution with a *direct quote* from YOU. 
