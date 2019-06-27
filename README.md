@@ -1,12 +1,13 @@
 # blog-video-community-contributions
 Your guide that welcomes YOU, as an #OSS Community Contributor to share exclusive bold/vibrant videos, blogs, tutorials to the Tomitribe Blog and Videos.
 
-## How can you contribute:
+## How can you contribute: Blogs/Videos/Speaking
 If you are planing to make an exclusive TomEE related blog posts, tutorials or videos, don’t hesitate to reach out to us via blogs@tomitribe.com. We will be happy to  publish and promote it. The overall process is described below.
 
+1. _Blogs, Videos & Tutorials_ You start the process by sending an email to blogs@tomitribe.com. In the email share with us your exclusive contribution or the plan you have for it.
 
+1.1 _Co-Speaking: Virtual or in Person Collaboration_:  You start the process by sending an email to conferences@tomitribe.com. In the email share with us your exclusive session idea or abstract you have for such talk. 
 
-1. You start the process by sending an email to blogs@tomitribe.com. In the email share with us your exclusive contribution or the plan you have for it.
 
 2. In order to publicly track the progress of your contribution, we will create a new issue under https://github.com/tomitribe/blog-video-community-contributions/issues
 
